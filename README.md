@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**lamas250/lamas250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Igor LAmas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+Sou um Dev FullStack :computer:
+
+ :rocket:  &nbsp;
+ <br/> :purple_heart: &nbsp; Frontend: ReactJS e VueJs
+ <br/> :blush: &nbsp; Backend:  Node.js Typescript PHP e Laravel
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-lamas/)](https://www.linkedin.com/in/igor-lamas/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-igor.soares.l@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.soares.l@hotmail.com)](mailto:tgmarinho@gmail.com)
