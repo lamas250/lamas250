@@ -1,5 +1,5 @@
 
-# Igor LAmas
+# Igor Lamas
 
 ## Olá pessoal 👋
 Sou um Dev FullStack :computer:
