@@ -2,7 +2,7 @@
 # Igor Lamas
 
 ## Olá pessoal 👋
-Sou um Dev FullStack :computer:
+ :computer:
 
  
 Frontend: ReactJS <br/>
